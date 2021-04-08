@@ -4,6 +4,6 @@
     "core-rules"
   ],
   "files" : [
-
+    "rulebook.json" 
   ]
 }
