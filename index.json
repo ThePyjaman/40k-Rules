@@ -1,3 +1,9 @@
 {
-  "title": "index"
+  "title": "index",
+  "folders" : [
+    "core-rules"
+  ],
+  "files" : [
+
+  ]
 }
